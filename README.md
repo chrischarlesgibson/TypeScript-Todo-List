@@ -1,24 +1,48 @@
-# New Project
+# TypeScript-Todo-list
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Available Scripts
+## Description
 
-### npm start
+The purpose of this project was to make a todo list using TypeScript and in the process learn how to make a simple TypeScript application.
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+## Table of Contents
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+- [Description](#Description)
+- [Contributing guidlines](#Contributing)
+- [License](#License)
+- [Badges](#Badges)
+- [Questions](#Questions)
 
-### npm run build
+## License
 
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
+Licenseed under the MIT license.[License details here](https://opensource.org/licenses/MIT)
 
-**For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.mjs` config file.
+## Built With:
 
-### Q: What about Eject?
+- TypeScript
+- Snowpack
+- node.js
+- HTML
+- CSS
+- uuid
 
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+## Badges
+
+![Your Repository's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrischarlesgibson&theme=blue-green)
+
+## Contributing Guidlines
+
+If you would like to contribute to this application, please contact me and we can discuss further.
+
+## Creator info
+
+**Chris Gibson**
+
+- [Link to Chris's Portfolio Site](https://chrischarlesgibson.github.io/Chris-Gibson-project-portfolio/)
+- [Link to Chris's Github](https://github.com/chrischarlesgibson)
+- [Link to Chris's LinkedIn](https://www.linkedin.com/in/chris-gibson-415909250/)
+
+## Questions
+
+If you are experiencing any issues, you can contact me at my github account [chrischarlesgibson](https://github.com/chrischarlesgibson) or contact me through email at chrischarlesgibson@gmail.com
